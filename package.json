@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "postcss _css/tailwind.css -o css/tailwind.css"
   },
   "author": "",
   "license": "ISC"
