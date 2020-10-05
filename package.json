@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "postcss _css/tailwind.css -o css/tailwind.css"
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
   },
   "author": "",
   "license": "ISC"
